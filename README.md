@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou SamuraiLocs
 
-<img src="https://tenor.com/pt-BR/view/kratos-kratos-lurking-god-of-war-ovohartwell-twerking-gif-27063506" alt="https://tenor.com/pt-BR/view/кратос-krathos-fortnite-dance-emotes-gif-19437909" width="300" />
+<img src="https://tenor.com/pt-BR/view/kratos-kratos-lurking-god-of-war-ovohartwell-twerking-gif-27063506" alt="" width="300" />
 
 ## 💻 Sobre Mim: A Jornada de um Recém-Chegado
 
@@ -41,8 +41,3 @@ Sou um **Entusiasta de TI** em transição de carreira para o mundo da programa�
 
 ---
 
-## 📈 Atividade no GitHub (Para Interatividade)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_DO_GITHUB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-</p>
