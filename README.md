@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou SamuraiLocs
 
-<img src="https://tenor.com/pt-BR/view/kratos-kratos-lurking-god-of-war-ovohartwell-twerking-gif-27063506" alt="kratosbolado" width="300" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJsa2lyODdldHlkcmJxZzZhOWRlM2NkdXUzcm02eHB1MWVmbzJmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uTYR5bOktNNWsbgRAb/giphy.gif" alt="kratosbolado" width="300" />
 
 ## 💻 Sobre Mim: A Jornada de um Recém-Chegado
 
