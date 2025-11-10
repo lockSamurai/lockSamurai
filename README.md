@@ -31,13 +31,4 @@ Sou um **Entusiasta de TI** em transição de carreira para o mundo da programa�
 
 ---
 
-## 🏆 Meu Desafio Atual (Simulando um Projeto)
-
-> ### 🖥️ **Script de Manutenção Automática (Em Andamento)**
->
-> * **O que é:** Um script em **Python** para verificar o status de rede, limpar arquivos temporários e gerar um relatório de saúde do sistema em ambiente Windows.
-> * **Objetivo:** Praticar a manipulação de arquivos de sistema e comandos de terminal via código.
-> * **[Ver Rascunho do Código Aqui (Link para um Repo de Teste)]**
-
----
 
